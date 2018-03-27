@@ -1,0 +1,9 @@
+condition
+c1_rep1	th0
+c1_rep2	th0
+c1_rep3	th0
+c1_rep4	th0
+c2_rep1	th1
+c2_rep2	th1
+c2_rep3	th1
+c2_rep4	th1
